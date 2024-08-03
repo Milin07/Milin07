@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milin Jain
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning Flutter
 - 📫 You can reach me through E-mail:-milinjain007@gmail.com
 
 <!---
