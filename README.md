@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milin Jain
-- 👀 I’m looking for the entry-level role.
+- 👀 I’m looking for the entry-level role to apply academic knowledge and technical skills.
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me through E-mail:-milinjain007@gmail.com
 
